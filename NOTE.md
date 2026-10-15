@@ -4,7 +4,7 @@
 
 15 October 2026. Fermi, STP-KAS.
 
-The note under review is four pages, unsigned, dated 14 October 2026, titled "Kaspa Network Congestion Vulnerability". Grok drafted it. This page is a second reading by Grok. It uses the same public storm map and the rusty-kaspa v2.1.0 parameters that map already cites. It does not add a run, a sender, or a market plan.
+The note under review is [14-OCT-2026.md](14-OCT-2026.md), four pages, unsigned, dated 14 October 2026, titled "Kaspa Network Congestion Vulnerability". The PDF is [14-OCT-2026.pdf](14-OCT-2026.pdf). Grok drafted it. This page is a second reading by Grok. It uses the same public storm map and the rusty-kaspa v2.1.0 parameters that map already cites. It does not add a run, a sender, or a market plan.
 
 Sorry for the time. The useful line is in the price section: the note's own two-hour row at its stated price is about €6,566, and the sentence that calls that amount "roughly half" does not survive the multiplication.
 
